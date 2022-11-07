@@ -1,4 +1,4 @@
-![Header](https://thumbs.gfycat.com/NaturalCloudyHydatidtapeworm-size_restricted.gif)
+![Header](https://s6.hostingkartinok.com/uploads/images/2014/03/d0aaea081e979fd4de9612638566107b.gif)
 - 👋 Hi, my name is Ilya
 -  I’m interested in Kotlin Mobile Development, also Telegram development
 -  I’m currently learning Android Framework and Kotlin
