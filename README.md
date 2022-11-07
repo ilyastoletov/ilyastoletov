@@ -3,7 +3,7 @@
 -  I’m interested in Kotlin Mobile Development, also Telegram development
 -  I’m currently learning Android Framework and Kotlin
 -  Now I'm studying in college and open to contributions on different projects
-How to reach me:
-- **Telegram** [![Telegram Badge](https://img.shields.io/badge/t.me%2Fwr479-gfg-green)](https://r.me/risely)
+<br/><br/>How to reach me:
+**[Telegram](https://t.me/risely)**
 
 Pinned project it's i'm currently working for
