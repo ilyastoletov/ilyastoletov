@@ -1,7 +1,7 @@
 Hi! My name is Ilya
 ====================================================================================================================================
 
-Android Developer
+I'm an Android Developer
 ----------------------------------------------
 
 *   🌍  I'm living in Togliatti, Russia
@@ -21,7 +21,7 @@ Android Developer
 <a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452075/node-js.svg" width="48" height="48" alt="TypeScript" /></a>
 </p>
 
-### My current tech stack
+### Current tech stack
 <p>Android: Kotlin, Android SDK, Jetpack Compose, DI: Hilt, Koin, MVVM, Clean Architecture, Room, Retrofit, OkHttp, Ktor Client</p>
 <p>Backend: TypeScript, Node.js, Nest.js</p>
 <p>Tools: Android Studio, VS Code, Figma</p>
