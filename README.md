@@ -6,7 +6,7 @@ I'm an Android Developer
 
 *   🌍  I'm living in Togliatti, Russia
 *   ✉️  You can contact me at [ilastoletov7@gmail.com](mailto:ilastoletov7@gmail.com) and also on [Telegram](https://t.me/risely)
-*   🚀  I'm currently working in Sites Studio ([link](https://studio-websites.com/)) as Mobile Developer
+*   🚀  I'm currently working in Sites Studio ([link](https://studio-websites.ru/)) as Mobile Developer
 *   🧠  I'm learning Kotlin and Swift
 *   🤝  I'm open to collaborate on interesting projects
 
