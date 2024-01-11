@@ -6,8 +6,8 @@ I'm an Android Developer
 
 *   🌍  I'm living in Togliatti, Russia
 *   ✉️  You can contact me at [ilastoletov7@gmail.com](mailto:ilastoletov7@gmail.com) and also on [Telegram](https://t.me/risely)
-*   🚀  I'm currently working in Rik Masters as a Junior Android Developer
-*   🧠  I'm learning Kotlin, KMM, and TypeScript for a little backend development
+*   🚀  I'm currently working in Sites Studio ([link](https://studio-websites.com/)) as Mobile Developer
+*   🧠  I'm learning Kotlin and Swift
 *   🤝  I'm open to collaborate on interesting projects
 
   ### My Skills
@@ -15,16 +15,14 @@ I'm an Android Developer
 <a href="https://android.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303175/android-logo.svg" width="48" height="48" alt="Android" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="48" height="48" alt="Kotlin" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" /></a>
+<a href="https://swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="48" height="48" alt="Java" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" alt="Firebase" /></a>
-<a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="48" height="48" alt="TypeScript" /></a>
-<a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452075/node-js.svg" width="48" height="48" alt="TypeScript" /></a>
-</p>
 
 ### Current tech stack
 <p>Android: Kotlin, Android SDK, Jetpack Compose, DI: Hilt, Koin, MVVM, Clean Architecture, Room, Retrofit, OkHttp, Ktor Client</p>
+<p>IOS: Swift, IOS SDK, CocoaPods, SwiftUI</p>
 <p>Backend: TypeScript, Node.js, Nest.js</p>
-<p>Tools: Android Studio, VS Code, Figma</p>
+<p>Tools: Android Studio, XCode, VS Code, Figma</p>
 
 
 
