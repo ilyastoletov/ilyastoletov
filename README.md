@@ -18,6 +18,11 @@ I'm an Android Developer
 <a href="https://swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="48" height="48" alt="Java" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" alt="Firebase" /></a>
 
+### Contact Me
+<p align="left">
+<a href="https://t.me/risely/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452115/telegram.svg" width="64" height="64" alt="Telegram" /></a>
+<a href="https://www.linkedin.com/in/ilya-stoletov-4396a92aa/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452047/linkedin-1.svg" width="64" height="64" alt="Linkedin" /></a>
+
 ### Current tech stack
 <p>Android: Kotlin, Android SDK, Jetpack Compose, DI: Hilt, Koin, MVVM, Clean Architecture, Room, Retrofit, OkHttp, Ktor Client</p>
 <p>IOS: Swift, IOS SDK, CocoaPods, SwiftUI</p>
