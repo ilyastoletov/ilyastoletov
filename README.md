@@ -6,7 +6,7 @@ I'm an Android Developer
 
 *   🌍  I'm living in Togliatti, Russia
 *   ✉️  You can contact me at [ilastoletov7@gmail.com](mailto:ilastoletov7@gmail.com) and also on [Telegram](https://t.me/risely)
-*   🚀  I'm currently working in Sites Studio ([link](https://studio-websites.ru/)) as Mobile Developer
+*   🚀  I'm currently working in [Sites Studio](https://studio-websites.ru/) as Mobile Developer
 *   🧠  I'm learning Kotlin and Swift
 *   🤝  I'm open to collaborate on interesting projects
 
@@ -20,8 +20,8 @@ I'm an Android Developer
 
 ### Contact Me
 <p align="left">
-<a href="https://t.me/risely/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452115/telegram.svg" width="64" height="64" alt="Telegram" /></a>
-<a href="https://www.linkedin.com/in/ilya-stoletov-4396a92aa/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452047/linkedin-1.svg" width="64" height="64" alt="Linkedin" /></a>
+<a href="https://t.me/risely/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452115/telegram.svg" width="56" height="56" alt="Telegram" /></a>
+<a href="https://www.linkedin.com/in/ilya-stoletov-4396a92aa/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452047/linkedin-1.svg" width="56" height="56" alt="Linkedin" /></a>
 
 ### Current tech stack
 <p>Android: Kotlin, Android SDK, Jetpack Compose, DI: Hilt, Koin, MVVM, Clean Architecture, Room, Retrofit, OkHttp, Ktor Client</p>
