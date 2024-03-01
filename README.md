@@ -24,7 +24,7 @@ I'm an Android Developer
 <a href="https://www.linkedin.com/in/ilya-stoletov-4396a92aa/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452047/linkedin-1.svg" width="56" height="56" alt="Linkedin" /></a>
 
 ### Current tech stack
-<p>Android: Kotlin, Android SDK, Jetpack Compose, DI: Hilt, Koin, MVVM, Clean Architecture, Room, Retrofit, OkHttp, Ktor Client</p>
+<p>Android: Kotlin, Android SDK, Jetpack Compose, Hilt, Koin, MVVM, MVI, Clean Architecture, Room, Retrofit, OkHttp, Ktor Client</p>
 <p>IOS: Swift, IOS SDK, CocoaPods, SwiftUI</p>
 <p>Backend: TypeScript, Node.js, Nest.js</p>
 <p>Tools: Android Studio, XCode, VS Code, Figma</p>
