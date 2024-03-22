@@ -26,7 +26,6 @@ I'm an Android Developer
 ### Current tech stack
 <p>Android: Kotlin, Android SDK, Jetpack Compose, Hilt, Koin, MVVM, MVI, Clean Architecture, Room, Retrofit, OkHttp, Ktor Client</p>
 <p>IOS: Swift, IOS SDK, CocoaPods, SwiftUI</p>
-<p>Backend: TypeScript, Node.js, Nest.js</p>
 <p>Tools: Android Studio, XCode, VS Code, Figma</p>
 
 
