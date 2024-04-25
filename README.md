@@ -8,7 +8,7 @@ I'm an Android Developer
 *   ✉️  You can contact me by [Telegram](https://t.me/risely)
 *   🚀  I'm currently working in [Sites Studio](https://studio-websites.ru/) as an Android Developer
 *   🧠  I'm learning Kotlin and highly interested in Kotlin Multiplatform
-*   🤝  I'm open to contribute on interesting projects, so if you have one you can reach me by following contacts
+*   🤝  I'm open to contribute on interesting projects, so if you have one feel free to reach me by following contacts
 
 ### Contact Me
 <p align="left">
