@@ -5,10 +5,15 @@ I'm an Android Developer
 ----------------------------------------------
 
 *   🌍  I'm living in Togliatti, Russia
-*   ✉️  You can contact me by email [ilastoletov7@gmail.com](mailto:ilastoletov7@gmail.com) and also by [Telegram](https://t.me/risely)
-*   🚀  I'm currently working in [Sites Studio](https://studio-websites.ru/) as Mobile Developer
-*   🧠  I'm learning Kotlin and highly interested with cross-platform development using KMM
-*   🤝  I'm open to collaborate on interesting projects
+*   ✉️  You can contact me by [Telegram](https://t.me/risely)
+*   🚀  I'm currently working in [Sites Studio](https://studio-websites.ru/) as an Android Developer
+*   🧠  I'm learning Kotlin and highly interested in Kotlin Multiplatform
+*   🤝  I'm open to contribute on interesting projects, so if you have one you can reach me by following contacts
+
+### Contact Me
+<p align="left">
+<a href="https://t.me/risely/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452115/telegram.svg" width="56" height="56" alt="Telegram" /></a>
+<a href="https://www.linkedin.com/in/ilya-stoletov-4396a92aa/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452047/linkedin-1.svg" width="56" height="56" alt="Linkedin" /></a>
 
   ### My Skills
 <p align="left">
@@ -18,14 +23,8 @@ I'm an Android Developer
 <a href="https://swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="48" height="48" alt="Java" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" alt="Firebase" /></a>
 
-### Contact Me
-<p align="left">
-<a href="https://t.me/risely/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452115/telegram.svg" width="56" height="56" alt="Telegram" /></a>
-<a href="https://www.linkedin.com/in/ilya-stoletov-4396a92aa/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452047/linkedin-1.svg" width="56" height="56" alt="Linkedin" /></a>
-
 ### Current tech stack
-<p>Android: Kotlin, Android SDK, Jetpack Compose, Hilt, Koin, MVVM, MVI, Clean Architecture, Room, Retrofit, OkHttp, Ktor Client</p>
-<p>IOS: Swift, IOS SDK, CocoaPods, SwiftUI</p>
+<p>Android: Kotlin, Android SDK, Jetpack Compose, Hilt, MVVM, MVI, Clean Architecture, Room, Retrofit, OkHttp, Ktor Client</p>
 <p>Tools: Android Studio, XCode, VS Code, Figma</p>
 
 
