@@ -5,7 +5,7 @@ Hi there, I'm Ilya
 :house: Based in Togliatti, Russia <br>
 :iphone: Highly obsessed with mobile tech and innovations <br>
 :heart: Love sci-fi and building software <br>
-:call_me_hand: Reach me by [Telegram](https://t.me/risely/)
+:call_me_hand: You can reach me by [Telegram](https://t.me/risely/)
 
 ### Skills
 <p>
