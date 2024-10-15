@@ -4,7 +4,7 @@ Hi there, I'm Ilya
 :computer: Android Developer <br>
 :house: Based in Togliatti, Russia <br>
 :iphone: Highly obsessed with mobile tech and innovations <br>
-:heart: Love sci-fi and building software <br>
+:heart: Love science fiction <br>
 :call_me_hand: You can reach me by [Telegram](https://t.me/risely/)
 
 ### Skills
